@@ -1,1 +1,1 @@
-this is pratcice purpose git repository
+This is practice purpose git repository.
